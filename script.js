@@ -1,5 +1,5 @@
 // Вставьте сюда URL вашего развернутого Google Apps Script
-const SCRIPT_URL = 'YOUR_APPS_SCRIPT_URL';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyUVwrX3sXSYjDhZgmjYzUXsup7GUvgzPQVDAZGQK10El6P5voRZ5joUkcGjjCzJukW8A/exec';
 
 const questions = [
     {
